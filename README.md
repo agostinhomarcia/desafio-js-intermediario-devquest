@@ -11,6 +11,8 @@
 
 [<img src="src/img/projeto.png">]
 
+### Gif do Projeto
+
 [<img src="src/img/tela-projeto-desafio-slider.gif">]
 
 
