@@ -1,10 +1,11 @@
 ### Projeto Desafio JavaScript
-### Criar um acordeon de imagens
 
-### Ao clicar em uma pergunta deve acontecer  uma animação de acordeon para abrir o item e mostrar o texto escondido, e a seta deve mudar de cor.
-### Ao clicar em um item para abri-lo todos os outros itens devem ser fechados.
-### Referência do que é um efeito acordeon
-### https://www.netflix.com/br/ na seção Perguntas Frequentes
+
+### Crie um carrossel (slider) de imagens conforme layout do figma
+
+### O slider possui uma seta a esquerda e outra a direita que servem pra passar ou voltar a imagem.
+### Quando for a primeira imagem, a seta da esquerda deve ficar com uma opacidade e sem clique.
+### Quando for a última imagem, a seta da direita deve ficar com uma opacidade e sem clique.
 
 ### Design do Projeto
 
